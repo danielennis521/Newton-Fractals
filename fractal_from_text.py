@@ -1,3 +1,4 @@
+# this code lets you convert the output from the c++ code into a jpeg
 from PIL import Image
 import numpy as np
 
