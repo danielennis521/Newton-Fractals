@@ -1,3 +1,6 @@
+# A more convienient, self contained, Newton fractal generator
+# Note quite as fast as the c++ code though
+
 import numpy as np
 import matplotlib.pyplot as plt
 import random
